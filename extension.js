@@ -49,6 +49,7 @@
       device = null;
       tryNextDevice();
     }, 5000);
+  }
 
     // Functions for block with type 'w' will get a callback function as the 
     // final argument. This should be called to indicate that the block can
